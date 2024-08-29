@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ty</h1>
 
-- 🌱 I’m currently learning Vuejs
 - 📫 How to reach me **korapat.peng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
